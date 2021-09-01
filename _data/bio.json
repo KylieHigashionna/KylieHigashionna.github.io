@@ -2,10 +2,10 @@
   "basics": {
     "name": "Kylie Higashionna",
     "label": "Student",
-    "picture": "https://KylieHigashionna.github.io/images/molly.png",
+    "picture": "https://kyliehigashionna.github.io/images/molly.png",
     "email": "kyliehig@hawaii.edu",
     "phone": "",
-    "website": "https://KylieHigashionna.github.io",
+    "website": "https://kyliehigashionna.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and for a B.A. in Japanese in the Department of East Asian Languages and Literatures at the University of Hawaii. I expect to graduate in Fall, 2024.",
     "location": {
       "address": "",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "KylieHigashionna",
-        "url": "http://github.com/KylieHigashionna"
+        "url": "http://github.com/kyliehigashionna"
       },
       {
         "network": "linkedin",
