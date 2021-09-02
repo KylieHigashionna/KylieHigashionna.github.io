@@ -1,44 +1,32 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+published: true
+image: images/Japan-Wizards-Competition-logo.jpg
+title: Winning a Trip to Japan
+permalink: projects/winning-a-trip-to-japan
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2021-09-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Japanese
+  - Competition
+summary: My team participates in the annual Japan Wizards Competition with a surprising twist at the end.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+## **Japan Wizard Competition**
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+When I was a freshman in high school, I participated in the Japan Wizard Competition. The Japan Wizard Competition is an event where many high school students work in teams of three to answer trivia questions about Japan and compete against each other. It is held every February, and the team with the highest score receives a free trip to Japan. At the competition, the questions were not only about language, but also about history, geography, Japan-Hawaii relations, Japanese culture, and even current affairs. As the leader of my group, I took on most of the topics, and made sure we kept on track. I scheduled the days we would meet after school to study and practice, as well as think of possible questions that might be asked. My team began preparing for the competition in October of 2015, then, on February 27, 2016, we participated in the competition at Kapi'olani Community College.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+## **Day of the Competition**
 
-Here is some code that illustrates how we read values from the line sensors:
+During the competition, my team tried to answer as many questions as possible, but sometimes we didn't press the button fast enough and lost the right to answer, even though we knew the right answer. There were also times when we pressed the button too quickly, lost track of the question, and gave the wrong answer. The frustration and sadness of not being able to answer the questions as the leader of my team made me want to work even harder. As the leader, even if we got the answer wrong, I kept the mood positive and light-hearted through saying “we’ll get the next one”, or “it’s ok we still got this!”. It was then that I realized that the most important part of this competition is cooperation. There was no way we could know all the answers to all the questions, which is why we had a team, and each of us had to make up for what one another lacked. 
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+## **Sometimes you need to lose to win**
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+After the competition, we waited for the results to be announced. When the results came out, I saw that my team's score was 145 points, placing us fifth. We were a bit disappointed but were still glad we were able to participate in the event. I felt we had a good experience from partaking in the event and learnt a lot about teamwork, communication, and leadership. However, it just so happened that there was a lottery where if one’s school name got picked, that team got a free trip to Japan. Out of all the schools, my school got picked and our team won a trip to Japan. Through this experience, I learned to never give up hope even if the outcome looks grim. I also realized how important it is to take chances and try new things, for one’s possibilities to expand. If you take the time to work hard, you may not see immediate results, but if you work hard, you will be rewarded.
+
+
+You can learn more about the Japan Wizard Competition at the [Japan America Society of Hawaii](https://www.jashawaii.org/).
 
 
 
