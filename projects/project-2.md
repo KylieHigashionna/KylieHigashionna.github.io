@@ -24,7 +24,7 @@ I wrote my speech about my ties to Japan and about my ancestors that decided to 
 
 ## **Giving My Speech**
 
-On the actual day I was very nervous to present my speech in front of everyone. However, since I practiced so much, I was also a bit excited to tell everyone my story. Through all my hardword and perseverance, I was able to say my speech in front of everyone while not making any mistakes and just trying to be in the moment. Through this experience I got better at public speaking as well as communication to be able to express my story. I also gained more confidence in myself though this since I accomplished such a hard task and exceeded my expectations.  
+On the actual day I was very nervous to present my speech in front of everyone. However, since I practiced so much, I was also a bit excited to tell everyone my story. Through all my hardword and perseverance, I was able to say my speech in front of everyone while not making any mistakes and just trying to be in the moment. Through this experience I got better at public speaking as well as communication to be able to express my story. I also gained more confidence in myself through this since I accomplished such a hard task and exceeded my expectations.  
 
 <img class="ui medium right floated rounded image" src="../images/GannenmonoSpeech.JPG">
 
