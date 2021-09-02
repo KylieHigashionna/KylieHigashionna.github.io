@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/Japan-Wizards-Competition-logo.jpg
+image: images/Japan-Wizards-Competition-logo-small.jpg
 title: Winning a Trip to Japan
 permalink: projects/winning-a-trip-to-japan
 # All dates must be YYYY-MM-DD format!
