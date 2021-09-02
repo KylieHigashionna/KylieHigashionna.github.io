@@ -1,61 +1,32 @@
 ---
 layout: project
 type: project
+published: true
 image: images/minesweeper.jpeg
-title: Cotton
-permalink: projects/cotton
+title: Swept Away by Minesweepers
+permalink: projects/swept-away-by-minesweepers
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-09-01
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - C
+  - Education
+  - Teamwork
+summary: Project on creating a game similar to minesweeper in C.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+## **Programming in C**
 
-To give you a flavor of the game, here is an excerpt from one run:
+In my freshman year at the University of Hawaii at Manoa I took EE160 which had a final project called Timmy Finds the Exit. This project was supposed to be very similar to the minesweepers game where it’s a single player game and the goal is to move “Timmy” safely through the minefield to find a secret exit that is not visible. We had an 8 by 10 cell area minefield, in which the player earns points if they move Timmy to a safe position and even more if they find the exit. However, if Timmy’s position is moved to be on a mine, then the player dies, and the game will be reset if the player wants to continue. Some of the features our game needed to fulfill was to have a menu, different levels of difficulty, movement, detector, flag planting, win condition, and movement and flag planting off the edge not being allowed.
+ 
+## **Working as a Group**
 
-<hr>
+I was the leader of our three-person group. Since I was the leader, I had the most responsibilities for the project. I created the movement function, detector function, flag planting function, win condition, and made sure that movement and flag planting could not be done off the edge of the map. The other two teammates worked on the menu and the different levels of difficulty. I found it was easier to make all these functions myself since there is a lot of overlapping and interaction between all these commands. I found that flag planting function affected the movement, and that the movement affected the detection. If each person were to make a different function it would have been harder since we would have had to make sure if our code was compatible with each other since it affects other functions.
+ 
+## **Takeaways from the Project**
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Through this project I learned a lot about C programming. I learned more about creating functions and setting conditionals. It was interesting to see how the result of a certain function can also affect the result of another function. I also realized the importance of commenting on one's code especially since working in a group requires a lot of communication. From experiencing this project, I learned how to better cooperate with others when working on a coding project, as well as being a good leader by checking in on my teammates and creating a schedule. 
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+<img class="ui medium right floated rounded image" src="../images/TimmyFindsTheExit.png">
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+This was the display of the minefield area.
