@@ -21,3 +21,5 @@ I think JavaScript would be a good programming language from a software engineer
 ## **Athletic Software Engineering** 
 
 In my ICS 314 course we have done some timed practice coding problems, to improve our efficiency and proficiency at programming. I was very concerned at first, since being timed gives me more stress, but I think it will definitely help me to not only be more confident in my coding skills but also to get better at problem solving under pressure. I find all the practices of athletic software engineering very essential to help me prepare for interviews and real-life situations. Even though it was tense, I do appreciate this type of learning since it constantly pushes me to exceed my limits and rapidly learn. I already can tell that the athletic software engineering practices have helped me to think of a solution quickly and implement it in a more cost-effective way.
+
+
