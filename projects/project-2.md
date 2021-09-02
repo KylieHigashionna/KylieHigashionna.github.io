@@ -1,25 +1,31 @@
 ---
 layout: project
 type: project
+published: true
 image: images/UnitedJapaneseSocietyOfHawaii.jpg
-title: Vacay
-permalink: projects/vacay
+title: 150th Anniversary of the Gannenmono Speech
+permalink: projects/150th-anniversary-of-the-gannenmono-speech
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-09-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Japanese
+  - Speech
+  - Gannenmono
+summary: I recited my speech about my connection to the Gannenmono in Japanese.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+## **Japanese Language Achievement Award Ceremony**
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+When I was a junior in high school, I took part in the Japanese language achievement award ceremony. This event was put together by the United Japanese Society of Hawaii who promotes and encourages the study of Japanese language and culture in Hawaii. This event was to recognize students who excel in the Japanese language from different schools all around the island. All the students were to prepare a three-minute speech in Japanese related to the 150th Anniversary of the Gannenmono (the first official group of Japanese immigrants).
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+## **My Speech**
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I wrote my speech about my ties to Japan and about my ancestors that decided to go to a new country being Hawaii in search of a better life not only for themselves, but also for their family. I first wrote the speech in English and then slowly translated it into Japanese with the help of my Japanese teacher at the time. After fully translating it into Japanese I started to memorize each line one at a time. It took some time before I was able to fully recite the speech, but every now and then I would get tripped up on what would come next. However, all I could do was continuously practice until it was second nature. The next step was to put emotion into what I was saying to really convey the message to others. I remembered that I would practice in front of my teacher, parents, and grandfather and look for advice as to how to improve my delivery. 
+
+## **Giving My Speech**
+
+On the actual day I was very nervous to present my speech in front of everyone. However, since I practiced so much, I was also a bit excited to tell everyone my story. Through all my hardword and perseverance, I was able to say my speech in front of everyone while not making any mistakes and just trying to be in the moment. Through this experience I got better at public speaking as well as communication to be able to express my story. I also gained more confidence in myself though this since I accomplished such a hard task and exceeded my expectations.  
+
+<img class="ui medium right floated rounded image" src="../images/GannenmonoSpeech.JPG">
+
+You can learn more about the [Gannenmono](https://kizunahawaii.com/).
