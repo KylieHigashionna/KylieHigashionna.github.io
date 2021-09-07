@@ -26,7 +26,7 @@ During the competition, my team tried to answer as many questions as possible, b
 After the competition, we waited for the results to be announced. When the results came out, I saw that my team's score was 145 points, placing us fifth. We were a bit disappointed but were still glad we were able to participate in the event. I felt we had a good experience from partaking in the event and learnt a lot about teamwork, communication, and leadership. However, it just so happened that there was a lottery where if one’s school name got picked, that team got a free trip to Japan. Out of all the schools, my school got picked and our team won a trip to Japan. Through this experience, I learned to never give up hope even if the outcome looks grim. I also realized how important it is to take chances and try new things, for one’s possibilities to expand. If you take the time to work hard, you may not see immediate results, but if you work hard, you will be rewarded.
 
 
-<img class="ui medium right floated rounded image" src="../images/JapanWizardsRaffle.jpg">
+<img class="ui big right floated rounded image" src="../images/JapanWizardsRaffle.jpg">
 
 You can learn more about the Japan Wizard Competition at the [Japan America Society of Hawaii](https://www.jashawaii.org/).
 
