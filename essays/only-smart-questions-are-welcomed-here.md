@@ -34,7 +34,7 @@ Some guidelines on making smart questions would be similar to what one should av
 
 One question that fulfills these precepts has its subject header as [“What is the “-->” operator in C/C++?”](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c-c?answertab=votes#tab-top). This title is very clear in that it states the programming language they are dealing with, being C/C++, as well as a specific question on what “-->” is. The tags used in this post were C++, C, Operators, Code-formatting, and Standards-compliance. It was smart from tagging the programming languages, as well as operators since the asker thought the “-->” was an operator. It also used the code-formatting and standards-compliance tags since “-->” could also be a legibility of source code issue. The description of the question states “After reading Hidden Features and Dark Corners of C++/STL on comp.lang.c++.moderated, I was completely surprised that the following snippet compiled and worked in both Visual Studio 2008 and G++ 4.4. I'd assume this is C, since it works in GCC as well. Where is this defined in the standard, and where has it come from?”, with the source code. This description had many good points stating where the source code came from, what environment and compiler was used, things they did to test the code, and a clear intent of what they wanted to know. There were many answers for this question.
 
-<img class="ui huge left floated rounded image" src="../images/SmartQuestion.png">
+<img class="ui huge left spaced floated rounded image" src="../images/SmartQuestion.png">
 
 ### **Smart Answers**
 
