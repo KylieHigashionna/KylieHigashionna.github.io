@@ -36,8 +36,9 @@ One question that fulfills these precepts has its subject header as [“What is 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 <img class="ui huge left floated rounded image" src="../images/SmartQuestion.png">
-___________________________________________________________________________________________________________________________________________________________________________________
 
+
+___________________________________________________________________________________________________________________________________________________________________________________
 ### **Smart Answers**
 
 The top answer stated “--> is not an operator. It is in fact two separate operators, -- and >. The conditional's code decrements x, while returning x's original (not decremented) value, and then compares the original value with 0 using the > operator. To better understand, the statement could be written as follows: while((x--) > 0)”. This answer is very clear and concise which again reflects on how the question was also well-defined. It has a clear step by step explanation on how the value of x is changed. The answerer wrote the code out in a different way to be more legible for the asker to understand. This question was resolved with many upvotes not only on the answer, but also on the question which showed that many people were helped though it.
