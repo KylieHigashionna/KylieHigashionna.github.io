@@ -37,7 +37,7 @@ One question that fulfills these precepts has its subject header as [“What is 
 <img class="ui huge left floated rounded image" src="../images/SmartQuestion.png">
 
 <p>
-  
+   
 </p>
 
 ### **Smart Answers**
