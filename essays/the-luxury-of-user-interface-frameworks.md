@@ -15,23 +15,22 @@ When I was a junior in college, I learned how to create a website through using 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **HTML File Only**
 
-<img class="ui big center floated image" src="../images/browserhistoryone.png">
-___________________________________________________________________________________________________________________________________________________________________________________
+<img class="ui huge center floated image" src="../images/browserhistoryone.png">
+
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **HTML FILE and CSS**
 
-<img class="ui big center floated image" src="../images/browserhistorytwo.png">
-___________________________________________________________________________________________________________________________________________________________________________________
+<img class="ui huge center floated image" src="../images/browserhistorytwo.png">
+
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **HTML FILE and CSS More Customized**
 
-<img class="ui big center floated image" src="../images/browserhistorythree.png">
+<img class="ui huge center floated image" src="../images/browserhistorythree.png">
+
+
 ___________________________________________________________________________________________________________________________________________________________________________________
-
-
-
 ## **The Worth of Learning Semantic UI**
 
 Though UI frameworks are not simple and learning them can be as complicated as learning a new programming language, there are still many benefits in using them. One framework that is relatively beginner friendly is Semantic UI. Semantic UI is a UI framework which helps to create responsive and beautiful designs. One nice aspect of this framework is that the syntax used for classes stems from the natural language where the word order and plurality match the English syntax. This makes it not only more readable, but also easier to comprehend what the class is doing. Though one might get frustrated and would need to invest a lot of time in learning Semantic UI to become proficient in it, the outcome of learning Semantic UI ends up saving a lot of time. It saves a lot of time because it provides HTML code that you don’t need to create from scratch. Using Semantic UI is more efficient, and easier to manage bigger projects than just writing in raw HTML and CSS. Only using raw HTML and CSS can get messy and repetitive if it is not organized well. This can also make it harder to debug the HTML since it would not be as readable and neat. However, it would be a good idea to get comfortable in creating a nice webpage though just HTML and CSS and building off this knowledge with using a framework, rather than jumping to using a framework from the beginning.
