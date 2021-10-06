@@ -15,19 +15,19 @@ When I was a junior in college, I learned how to create a website through using 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **[HTML File Only](https://github.com/kyliehigashionna/browserhistory1)**
 
-<img class="ui huge center floated image" src="../images/browserhistoryone.png">
+<img class="ui massive center floated image" src="../images/browserhistoryone.png">
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **[HTML FILE and CSS](https://github.com/kyliehigashionna/browserhistory/tree/css-1)**
 
-<img class="ui huge center floated image" src="../images/browserhistorytwo.png">
+<img class="ui massive center floated image" src="../images/browserhistorytwo.png">
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **[HTML FILE and CSS More Customized](https://github.com/kyliehigashionna/browserhistory/tree/columns-1)**
 
-<img class="ui huge center floated image" src="../images/browserhistorythree.png">
+<img class="ui massive center floated image" src="../images/browserhistorythree.png">
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
@@ -38,7 +38,7 @@ Though UI frameworks are not simple and learning them can be as complicated as l
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **[HTML and CSS with Semantic UI](https://github.com/kyliehigashionna/browserhistory/tree/semantic-1)**
 
-<img class="ui huge center floated image" src="../images/browserhistoryfour.png">
+<img class="ui massive center floated image" src="../images/browserhistoryfour.png">
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________ 
