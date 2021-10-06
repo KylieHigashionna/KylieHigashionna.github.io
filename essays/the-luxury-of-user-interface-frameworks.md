@@ -12,23 +12,11 @@ labels:
 
 When I was a junior in college, I learned how to create a website through using HTML and CSS for the first time. Both HTML and CSS were very different from anything I have learned before. I began with creating a basic webpage though only using HTML starting off with the h1, h2, and p tags for the text. Then I used the a tag for the links, and the img tag putting all the images in their respective places. Once I got all the relevant information to appear on the page, I created a CSS file and linked it to the HTML file. Within the CSS file I played with the background color, font color, font family, and the position of the images. Through only using basic HTML and CSS, I was able to make a webpage, though it looked very elementary and plain. The layout and overall impression of the webpage was boring since it lacked an eye-catching design. However, with my limited knowledge in HTML and CSS, creating a nice layout such as having a dropdown menu or grid would be very complicated and intricate. This is when I started to learn more about UI frameworks. UI frameworks give a set of interfaces, CSS classes, and sometimes JavaScript functions which can simplify the development of the design, give an appealing look and feel, and produce consistent results across different browsers. There are many different kinds of UI frameworks such as Bootstrap, UIkit, and Semantic UI.
 
-<div class="ui three column grid">
-  <div class="column">
-    <div class="ui segment">
-      <img class="ui medium right floated image" src="../images/browserhistoryone.png">
-    </div>
-  </div>
-  <div class="column">
-    <div class="ui segment">
-      <img class="ui medium right floated image" src="../images/browserhistorytwo.png">
-    </div>
-  </div>
-  <div class="column">
-    <div class="ui segment">
-      <img class="ui medium right floated image" src="../images/browserhistorythree.png">
-    </div>
-  </div>
-</div>
+<img class="ui medium right floated image" width=700px height=800px src="../images/browserhistoryone.png">
+
+<img class="ui medium right floated image" width=700px height=800px src="../images/browserhistorytwo.png">
+
+<img class="ui medium right floated image" width=700px height=800px src="../images/browserhistorythree.png">
 
 
 
