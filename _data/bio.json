@@ -52,7 +52,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -61,7 +63,10 @@
       "keywords": [
         "g++",
         "Eclipse",
-        "Windows"
+        "Windows",
+        "Meteor",
+        "Semantic UI",
+        "MongoDB"
       ]
     }
   ],
