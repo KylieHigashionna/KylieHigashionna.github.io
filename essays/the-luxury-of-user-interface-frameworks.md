@@ -15,19 +15,19 @@ When I was a junior in college, I learned how to create a website through using 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **[HTML File Only](https://github.com/kyliehigashionna/browserhistory1)**
 
-<img class="ui massive center floated image" src="../images/browserhistoryone.png">
+<img class="ui massive center floated image" src="../images/browserhistoryone.png" alt="">
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **[HTML File and CSS](https://github.com/kyliehigashionna/browserhistory/tree/css-1)**
 
-<img class="ui massive center floated image" src="../images/browserhistorytwo.png">
+<img class="ui massive center floated image" src="../images/browserhistorytwo.png" alt="">
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **[HTML File and CSS with more Customization](https://github.com/kyliehigashionna/browserhistory/tree/columns-1)**
 
-<img class="ui massive center floated image" src="../images/browserhistorythree.png">
+<img class="ui massive center floated image" src="../images/browserhistorythree.png" alt="">
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
@@ -38,7 +38,7 @@ Though UI frameworks are not simple and learning them can be as complicated as l
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **[HTML File and CSS with Semantic UI](https://github.com/kyliehigashionna/browserhistory/tree/semantic-1)**
 
-<img class="ui massive center floated image" src="../images/browserhistoryfour.png">
+<img class="ui massive center floated image" src="../images/browserhistoryfour.png" alt="">
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________ 
