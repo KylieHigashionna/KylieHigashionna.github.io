@@ -28,4 +28,4 @@ On the actual day I was very nervous to present my speech in front of everyone. 
 
 <img class="ui massive center floated image" src="../images/GannenmonoSpeech.JPG" alt="">
 
-You can learn more about the [Gannenmono](https://kizunahawaii.com/).
+You can learn more about Gannenmono [here.](https://kizunahawaii.com/).
