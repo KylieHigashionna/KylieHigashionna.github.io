@@ -24,10 +24,12 @@ ________________________________________________________________________________
 
 This is a photo of the Issue Driven Project Management milestones within github.
 
+___________________________________________________________________________________________________________________________________________________________________________________
 <img class="ui massive center floated image" src="../images/idpminprogress.png" alt="">
 
 This is a photo of the Issue Driven Project Management tasks within milestone 3. These tasks are in the process of being started and completed.
 
+___________________________________________________________________________________________________________________________________________________________________________________
 <img class="ui massive center floated image" src="../images/idpmcompleted.png" alt="">
 
 This is a photo of the Issue Driven Project Management completed tasks in milestone 2.
