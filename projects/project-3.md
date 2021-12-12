@@ -27,6 +27,6 @@ I was the leader of our three-person group. Since I was the leader, I had the mo
 
 Through this project I learned a lot about C programming. I learned more about creating functions and setting conditionals. It was interesting to see how the result of a certain function can also affect the result of another function. I also realized the importance of commenting on one's code especially since working in a group requires a lot of communication. From experiencing this project, I learned how to better cooperate with others when working on a coding project, as well as being a good leader by checking in on my teammates and creating a schedule. 
 
-<img class="ui large right floated rounded image" src="../images/TimmyFindsTheExit.png">
+<img class="ui massive center floated image" src="../images/TimmyFindsTheExit.png" alt="">
 
 This was the display of the minefield area.
