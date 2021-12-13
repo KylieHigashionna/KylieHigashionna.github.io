@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 <img class="ui massive center floated image" src="../images/kahukailogin.png" alt="">
 
-The user will be shown the login page to access the User Report List page.
+The user will be shown the login page to access the User Reports List page.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 <img class="ui massive center floated image" src="../images/kahukaiuserreporthistorynone.png" alt="">
