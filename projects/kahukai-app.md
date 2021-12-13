@@ -27,6 +27,28 @@ Our group created a web browser application that is accessible on both the mobil
 
 Throughout this project I learned more about using meteor and creating different forms and tables that link to the database. Some contributions that I wanted to highlight was the web page that contains the information about the user’s report history. For this web page I first needed it to display the different tables for the monk seal sighting, turtle sighting, sea bird sighting, and distress reports. I then had to feed the tables only the information of reports that were submitted by the present logged in user. This task involved giving access to certain report documents to public users by using publish and subscribe methods, as well as making sure the owner of each submission is linked to their email username. I also made the admin sign up page which involved creating another field for an admin password and connected the server method for creating an account to the client side. I set the admin password within the .json file which I use on the client side to confirm the admin user inputted the correct password. To create a new admin account, I needed to make a meteor method within the server-side Accounts file and call this method on the client side SignupAsAdmin file. 
 
+___________________________________________________________________________________________________________________________________________________________________________________
+### **[User Report History](https://github.com/bloombugs/application/tree/issue-35)**
+
+
+<img class="ui massive center floated image" src="../images/kahukailogin.png" alt="">
+
+The user will be shown the login page to access the User Report List page.
+___________________________________________________________________________________________________________________________________________________________________________________
+<img class="ui massive center floated image" src="../images/kahukaiuserreporthistorynone.png" alt="">
+
+If the user has yet to submit any forms, their tables will show no entries. 
+___________________________________________________________________________________________________________________________________________________________________________________
+<img class="ui massive center floated image" src="../images/kahukaiuserreporthistory.png" alt="">
+
+When the user has made multiple submissions, they will be able to see all their past reports on the different tables. 
+
+___________________________________________________________________________________________________________________________________________________________________________________
+### **[Admin Signup Page](https://github.com/bloombugs/application/tree/issue-32)**
+
+<img class="ui massive center floated image" src="../images/kahukaiadminsignup.png" alt="">
+
+___________________________________________________________________________________________________________________________________________________________________________________
 ## **Learning from this Experience**
 
 This project was very beneficial to my understanding of the connection between the server side and the client side within meteor. I learned more about publication and subscription for users, connecting the database to the tables, creating accounts on the client side through server methods, and creating default accounts and data within the .json file. Through this app I will always be able to look back on the way I created tables, sign up/log in pages, simple web pages with a navbar, different pages for certain users, etc., as a template for future endeavors. I also got more comfortable working in a group setting and managing the tasks between the other members, as well as communicating ideas and improvements with others. 
