@@ -55,4 +55,4 @@ ________________________________________________________________________________
 
 This project was very beneficial to my understanding of the connection between the server side and the client side within meteor. I learned more about publication and subscription for users, connecting the database to the tables, creating accounts on the client side through server methods, and creating default accounts and data within the .json file. Through this app I will always be able to look back on the way I created tables, sign up/log in pages, simple web pages with a navbar, different pages for certain users, etc., as a template for future endeavors. I also got more comfortable working in a group setting and managing the tasks between the other members, as well as communicating ideas and improvements with others. 
 
-You can find the link to this project's github [here](https://github.com/bloombugs/application).
+You can find the link to this project's github [here](https://github.com/bloombugs/application) to see more source code. You can also find our project's home page [here](https://bloombugs.github.io/) for more information about our application.
