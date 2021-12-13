@@ -34,10 +34,12 @@ ________________________________________________________________________________
 <img class="ui massive center floated image" src="../images/kahukailogin.png" alt="">
 
 The user will be shown the login page to access the User Report List page.
+
 ___________________________________________________________________________________________________________________________________________________________________________________
 <img class="ui massive center floated image" src="../images/kahukaiuserreporthistorynone.png" alt="">
 
 If the user has yet to submit any forms, their tables will show no entries. 
+
 ___________________________________________________________________________________________________________________________________________________________________________________
 <img class="ui massive center floated image" src="../images/kahukaiuserreporthistory.png" alt="">
 
