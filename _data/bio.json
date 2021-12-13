@@ -108,16 +108,16 @@
   ],
   "awards": [
     {
-      "title": "E.E. Black Scholarship",
-      "date": "2019",
-      "awarder": "University of Hawaii at Manoa, College of Engineering",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i school."
-    },
-    {
       "title": "Placing 2nd in the Hawaii Annual Code Challenge",
       "date": "November 2021",
       "awarder": "Hawaii Annual Code Challenge (HACC)",
       "summary": "Placed 2nd overall out of 44 teams. Created a web application for HACC 2021's Hawai'i Marine Animal Response (HMAR), NIC Hawaii. This sighting and reporting app are to help streamline the process for the public to report monk seals, turtles, and seabirds, to be on a 24/7 web app instead of by call logs. Technologies used: Meteor, MongoDB, React, Semantic UI, Javascript, HTML/CSS."
+    },
+    {
+      "title": "E.E. Black Scholarship",
+      "date": "2019",
+      "awarder": "University of Hawaii at Manoa, College of Engineering",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i school."
     }
   ],
   "references": [
